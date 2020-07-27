@@ -1,11 +1,9 @@
- name: Update stats
-
-  on:
-    schedule:
+name: Update stats
+on:
+   schedule:
       # Runs at 12am UTC
       - cron: '0 0 * * *'
-
-  jobs:
+jobs:
     update-readme:
       name: Update Readme with Metrics
       runs-on: ubuntu-latest
