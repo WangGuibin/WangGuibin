@@ -1,18 +1,27 @@
-### Hi there 👋
+# 👋 Hey!
+
+I am just a iOS developer and I am glad to meet you!
+
+![CoderWGB's github stats](https://github-readme-stats.vercel.app/api?username=WangGuibin&&show_icons=true&&title_color=1abc9c&&icon_color=1abc9c)
 
 
-**WangGuibin/WangGuibin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📝 Worked language
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=WangGuibin&show_icons=true&icon_color=805AD5&text_color=2edfa3&bg_color=ffffff&hide_title=true&title_color=20a0ff" alt="CoderWGB's GitHub Stats">
+- ✅ Objective-C/Swift   
+- ✅ HTML/CSS/JavaScript
+- ✅ Flutter/Dart
+- ✅ Python/Bash/Ruby
 
-Here are some ideas to get you started:
+### 📮 Contact Me
 
-- 🔭 I’m currently working on VM
-- 🌱 I’m currently learning flutter
-- 👯 I’m looking to collaborate on iOS
-- 🤔 I’m looking for help with development
-- 💬 Ask me about 864562082@qq.com
-- 📫 How to reach me: github or email
-- 😄 Pronouns: ...
-- ⚡ Fun fact: sport and movies
+[🏷 Email - 864562082@qq.com](mailto:864562082@qq.com)
 
+
+### 🤪 Other
+
+- [📌 My Blog - CoderWGB's Blog](http://wangguibin.github.io/hexo-github-action)
+
+### 📊 This week I spent my time on
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
