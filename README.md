@@ -24,4 +24,7 @@ I am just a iOS developer and I am glad to meet you!
 ### 📊 This week I spent my time on
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
