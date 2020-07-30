@@ -1,8 +1,12 @@
 # 👋 Hey!
 
+
 I am just a iOS developer and I am glad to meet you!
 
 ![CoderWGB's github stats](https://github-readme-stats.vercel.app/api?username=WangGuibin&&show_icons=true&&title_color=1abc9c&&icon_color=1abc9c)
+
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=wangguibin.wangguibin" alt="visitor badge"/>       
 
 
 ### 📝 Worked language
@@ -28,3 +32,4 @@ I am just a iOS developer and I am glad to meet you!
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
