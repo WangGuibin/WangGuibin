@@ -19,7 +19,8 @@ I am just a iOS developer and I am glad to meet you!
 
 ### 🤪 Other
 
-- [📌 My Blog - CoderWGB's Blog](http://wangguibin.github.io/hexo-github-action)
+- [📌 My Blog](http://wangguibin.github.io/hexo-github-action)
+- [博客园](https://www.cnblogs.com/wgb1234/)
 
 ### 📊 This week I spent my time on
 
