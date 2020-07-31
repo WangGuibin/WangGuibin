@@ -9,6 +9,7 @@ I am just a iOS developer and I am glad to meet you!
 
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=wangguibin.wangguibin" alt="visitor badge"/>       
+<a title="Hits" target="_blank" href="https://github.com/wangguibin/wangguibin"><img src="https://hits.b3log.org/wangguibin/wangguibin.svg"></a>
 
 
 
