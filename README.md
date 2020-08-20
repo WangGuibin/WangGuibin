@@ -27,7 +27,7 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 August, 2020 - 18 August, 2020
+Week: 12 August, 2020 - 19 August, 2020
 
 Objective-C   8 hrs 33 mins   ████████████████████████▓   99.05 % 
 Other         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
