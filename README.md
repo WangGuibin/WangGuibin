@@ -27,13 +27,13 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 August, 2020 - 21 August, 2020
+Week: 15 August, 2020 - 22 August, 2020
 
-Objective-C   8 hrs 34 mins   ███████████████████████░░   91.83 % 
-HTML          37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-Other         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Dart          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-INI           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+HTML          6 hrs 15 mins   ███████████████▒░░░░░░░░░   61.38 % 
+Objective-C   3 hrs 39 mins   █████████░░░░░░░░░░░░░░░░   35.87 % 
+Other         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Dart          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+INI           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 <!--END_SECTION:waka-->
 
