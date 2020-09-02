@@ -27,13 +27,13 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 August, 2020 - 31 August, 2020
+Week: 25 August, 2020 - 01 September, 2020
 
-HTML          1 hr 13 mins    ██████████░░░░░░░░░░░░░░░   39.66 % 
-Objective-C   58 mins         ████████░░░░░░░░░░░░░░░░░   31.67 % 
-Dart          22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-JavaScript    17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Cocoa         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+HTML          1 hr 13 mins    ██████████░░░░░░░░░░░░░░░   39.72 % 
+Objective-C   57 mins         ███████▓░░░░░░░░░░░░░░░░░   31.26 % 
+Dart          22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+JavaScript    14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Cocoa         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 ```
 <!--END_SECTION:waka-->
 
