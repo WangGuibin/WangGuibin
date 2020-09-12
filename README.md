@@ -27,7 +27,7 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 September, 2020 - 10 September, 2020
+Week: 04 September, 2020 - 11 September, 2020
 
 Dart          11 hrs 35 mins  ████████████████▒░░░░░░░░   65.63 % 
 Objective-C   5 hrs 38 mins   ████████░░░░░░░░░░░░░░░░░   31.95 % 
