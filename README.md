@@ -27,12 +27,13 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 September, 2020 - 13 September, 2020
+Week: 07 September, 2020 - 14 September, 2020
 
-Dart          11 hrs 35 mins  ████████████████████████░   96.15 % 
-YAML          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-JSON          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Objective-C   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Dart          11 hrs 35 mins  ███████████████████████▒░   93.13 % 
+YAML          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Markdown      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Objective-C   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Other         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 <!--END_SECTION:waka-->
 
