@@ -27,9 +27,11 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 September, 2020 - 27 September, 2020
+Week: 22 September, 2020 - 29 September, 2020
 
-
+Bash       5 mins          ██████████████▒░░░░░░░░░░   56.80 % 
+Other      2 mins          ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+Markdown   1 min           ████▓░░░░░░░░░░░░░░░░░░░░   19.29 % 
 ```
 <!--END_SECTION:waka-->
 
