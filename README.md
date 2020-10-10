@@ -27,9 +27,7 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 October, 2020 - 08 October, 2020
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
