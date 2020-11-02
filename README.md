@@ -27,13 +27,13 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 October, 2020 - 31 October, 2020
+Week: 25 October, 2020 - 01 November, 2020
 
-Objective-C   3 hrs 19 mins   █████████████░░░░░░░░░░░░   51.39 % 
-Bash          49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Other         41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-JSON          39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Markdown      31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Objective-C   2 hrs 39 mins   ███████████░░░░░░░░░░░░░░   43.66 % 
+Other         1 hr 9 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Bash          55 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+JSON          39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+XML           13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 ```
 <!--END_SECTION:waka-->
 
