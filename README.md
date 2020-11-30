@@ -27,12 +27,13 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 November, 2020 - 28 November, 2020
+Week: 22 November, 2020 - 29 November, 2020
 
-Other         4 hrs 7 mins    █████████████▒░░░░░░░░░░░   53.85 % 
-Objective-C   3 hrs 13 mins   ██████████▓░░░░░░░░░░░░░░   42.19 % 
-Markdown      16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-XML           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Objective-C   7 hrs 11 mins   ████████████▒░░░░░░░░░░░░   49.50 % 
+Other         5 hrs 36 mins   █████████▓░░░░░░░░░░░░░░░   38.69 % 
+HTML          1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Markdown      16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+JavaScript    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 ```
 <!--END_SECTION:waka-->
 
