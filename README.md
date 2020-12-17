@@ -27,10 +27,10 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 December, 2020 - 15 December, 2020
+Week: 09 December, 2020 - 16 December, 2020
 
-Objective-C   5 hrs 59 mins   ██████████████████▒░░░░░░   73.86 % 
-Other         2 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.14 % 
+Objective-C   6 hrs 3 mins    ██████████████████▓░░░░░░   74.07 % 
+Other         2 hrs 7 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.93 % 
 ```
 <!--END_SECTION:waka-->
 
