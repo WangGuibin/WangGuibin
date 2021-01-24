@@ -27,10 +27,10 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 January, 2021 - 22 January, 2021
+Week: 16 January, 2021 - 23 January, 2021
 
-Bash       3 hrs 29 mins   ████████████████████████▓   98.86 % 
-Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Bash       3 hrs 42 mins   ██████████████░░░░░░░░░░░   56.11 % 
+Markdown   2 hrs 54 mins   ███████████░░░░░░░░░░░░░░   43.89 % 
 ```
 <!--END_SECTION:waka-->
 
