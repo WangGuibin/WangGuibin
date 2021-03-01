@@ -27,7 +27,9 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 21 February, 2021 - 28 February, 2021
+
+Markdown   2 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
