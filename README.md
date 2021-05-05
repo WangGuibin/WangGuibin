@@ -27,7 +27,12 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 27 April, 2021 - 04 May, 2021
+
+Vue.js       2 hrs 12 mins   ███████████████████▓░░░░░   78.43 % 
+JavaScript   26 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Markdown     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 <!--END_SECTION:waka-->
 
