@@ -27,7 +27,7 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 April, 2021 - 05 May, 2021
+Week: 29 April, 2021 - 06 May, 2021
 
 Vue.js       2 hrs 12 mins   ███████████████████▓░░░░░   78.43 % 
 JavaScript   26 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
