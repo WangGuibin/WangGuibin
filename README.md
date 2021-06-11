@@ -8,10 +8,6 @@ I am just a iOS developer and I am glad to meet you!
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=WangGuibin&hide_langs_below=1&theme=default&line_height=27&layout=compact)
 
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=wangguibin.wangguibin" alt="visitor badge"/>       
-<a title="Hits" target="_blank" href="https://github.com/wangguibin/wangguibin"><img src="https://hits.b3log.org/wangguibin/wangguibin.svg"></a>
-
-
 
 ### 📮 Contact Me
 
@@ -22,6 +18,8 @@ I am just a iOS developer and I am glad to meet you!
 
 - [📌 My Blog](http://wangguibin.github.io/hexo-github-action)
 - [📌 博客园](https://www.cnblogs.com/wgb1234/)
+- [📌 WebClip在线工具](https://wangguibin.github.io/webclicp-vue-app/)
+- [📌 PersonalProfile](https://wangguibin.github.io/PersonalProfile/)
 
 ### 📊 This week I spent my time on
 
