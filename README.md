@@ -25,13 +25,13 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 June, 2021 - 11 June, 2021
+Week: 05 June, 2021 - 12 June, 2021
 
-Vue.js       5 hrs 3 mins    ██████████████░░░░░░░░░░░   56.53 % 
-Markdown     1 hr 29 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-JavaScript   1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Bash         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-HTML         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Vue.js       4 hrs 6 mins    ████████████████░░░░░░░░░   64.50 % 
+JavaScript   1 hr 12 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.86 % 
+Bash         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+HTML         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 ```
 <!--END_SECTION:waka-->
 
