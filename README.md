@@ -29,7 +29,7 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 June, 2021 - 23 June, 2021
+Week: 18 June, 2021 - 24 June, 2021
 
 JavaScript   1 hr 17 mins    ████████████░░░░░░░░░░░░░   48.51 % 
 Vue.js       1 hr 5 mins     ██████████▒░░░░░░░░░░░░░░   40.90 % 
