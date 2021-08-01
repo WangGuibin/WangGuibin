@@ -29,7 +29,9 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 25 July, 2021 - 31 July, 2021
+
+Other   12 mins         ████████████████████████░   96.56 % 
 ```
 <!--END_SECTION:waka-->
 
