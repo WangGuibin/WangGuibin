@@ -29,7 +29,10 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 27 November, 2021 - 03 December, 2021
+
+Python   7 mins          ████████████████████▒░░░░   81.62 % 
+Bash     1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.38 % 
 ```
 <!--END_SECTION:waka-->
 
