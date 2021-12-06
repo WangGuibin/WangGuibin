@@ -11,7 +11,6 @@ I am just a iOS developer and I am glad to meet you!
 
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=WangGuibin&hide_langs_below=1&theme=default&line_height=27&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangGuibin)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
