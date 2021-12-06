@@ -11,6 +11,8 @@ I am just a iOS developer and I am glad to meet you!
 
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=WangGuibin&hide_langs_below=1&theme=default&line_height=27&layout=compact)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangGuibin)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### 📮 Contact Me
@@ -25,7 +27,12 @@ I am just a iOS developer and I am glad to meet you!
 - [📌 WebClip在线工具](https://wangguibin.github.io/webclicp-vue-app/)
 - [📌 PersonalProfile](https://wangguibin.github.io/PersonalProfile/)
 
+
+
 ### 📊 This week I spent my time on
+
+[![CoderWGB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WangGuibin)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--START_SECTION:waka-->
 ```text
