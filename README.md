@@ -35,13 +35,12 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 December, 2021 - 09 December, 2021
+Week: 04 December, 2021 - 10 December, 2021
 
-Bash         51 mins         █████████████████░░░░░░░░   67.85 % 
-Other        11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Python       7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-JavaScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-HTML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Bash         50 mins         ██████████████████▓░░░░░░   74.78 % 
+Other        11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.92 % 
+JavaScript   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+HTML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 ```
 <!--END_SECTION:waka-->
 
