@@ -30,7 +30,7 @@ I am just a iOS developer and I am glad to meet you!
 
 ### 📊 This week I spent my time on
 
-[![CoderWGB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WangGuibin)](https://github.com/anuraghazra/github-readme-stats)
+[![CoderWGB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CoderWGB)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--START_SECTION:waka-->
