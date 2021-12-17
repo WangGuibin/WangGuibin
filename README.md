@@ -1,4 +1,4 @@
-![](https://cdn.jsdelivr.net/gh/WangGuibin/MyFilesRepo/images/20211217204943.gif)
+<img src="https://cdn.jsdelivr.net/gh/WangGuibin/MyFilesRepo/images/20211217204943.gif" width=100% >
 
 # 👋 Hey!
 
