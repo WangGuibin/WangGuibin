@@ -37,7 +37,7 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 December, 2021 - 16 December, 2021
+Week: 11 December, 2021 - 17 December, 2021
 
 Python   2 hrs 16 mins   ███████████▓░░░░░░░░░░░░░   46.28 % 
 Bash     1 hr 49 mins    █████████▒░░░░░░░░░░░░░░░   37.08 % 
