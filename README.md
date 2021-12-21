@@ -37,7 +37,11 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 14 December, 2021 - 20 December, 2021
+
+JSON         14 mins         ██████████████▓░░░░░░░░░░   59.00 % 
+JavaScript   7 mins          ███████░░░░░░░░░░░░░░░░░░   28.39 % 
+Vue.js       3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
 ```
 <!--END_SECTION:waka-->
 
