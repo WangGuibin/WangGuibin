@@ -37,11 +37,12 @@ I am just a iOS developer and I am glad to meet you!
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 December, 2021 - 21 December, 2021
+Week: 16 December, 2021 - 22 December, 2021
 
-JSON         14 mins         ██████████████▓░░░░░░░░░░   59.00 % 
-JavaScript   7 mins          ███████░░░░░░░░░░░░░░░░░░   28.39 % 
-Vue.js       3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+JSON         15 mins         ███████████▒░░░░░░░░░░░░░   44.97 % 
+JavaScript   8 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.96 % 
+HTML         6 mins          █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Vue.js       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
 ```
 <!--END_SECTION:waka-->
 
