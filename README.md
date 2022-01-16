@@ -16,17 +16,9 @@ I am just a iOS developer and I am glad to meet you!
 [🏷 Email - 864562082@qq.com](mailto:864562082@qq.com)
 
 
-### 🤪 Other
-
-- [📌 My Blog](http://wangguibin.github.io/hexo-github-action)
-- [📌 博客园](https://www.cnblogs.com/wgb1234/)
-- [📌 WebClip在线工具](https://wangguibin.github.io/webclicp-vue-app/)
-- [📌 PersonalProfile](https://wangguibin.github.io/PersonalProfile/)
-
-
 
 ### 📊 This week I spent my time on
-[![wakatime](https://wakatime.com/badge/user/407c6d8e-2c17-4c11-a4b0-1564a6f89458.svg)](https://wakatime.com/@407c6d8e-2c17-4c11-a4b0-1564a6f89458)
+<!-- [![wakatime](https://wakatime.com/badge/user/407c6d8e-2c17-4c11-a4b0-1564a6f89458.svg)](https://wakatime.com/@407c6d8e-2c17-4c11-a4b0-1564a6f89458) -->
 [![CoderWGB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=407c6d8e-2c17-4c11-a4b0-1564a6f89458)](https://github.com/WangGuibin/WangGuibin)
 
 
