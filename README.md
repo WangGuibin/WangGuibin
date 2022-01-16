@@ -5,14 +5,9 @@
 
 I am just a iOS developer and I am glad to meet you!
 
-<p align="center"> 
-  Visitors<br><img src="https://profile-counter.glitch.me/WangGuibin/count.svg" />
-</p>
+<img alt="🦑" align="left" width="400px" src="https://cdn.jsdelivr.net/gh/WangGuibin/WangGuibin@master/metrics.svg">
 
-![CoderWGB's github stats](https://github-readme-stats.vercel.app/api?username=WangGuibin&&show_icons=true&&title_color=1abc9c&&icon_color=1abc9c)
-
-![language](https://github-readme-stats.vercel.app/api/top-langs/?username=WangGuibin&hide_langs_below=1&theme=default&line_height=27&layout=compact)
-
+<img alt="🦑" align="left" width="400px" src="https://cdn.jsdelivr.net/gh/WangGuibin/WangGuibin@master/metrics.additional.svg">
 
 
 
