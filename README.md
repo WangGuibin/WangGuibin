@@ -7,7 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 January, 2022 - 19 January, 2022
+Week: 14 January, 2022 - 20 January, 2022
 
 Markdown   26 mins         █████████████░░░░░░░░░░░░   52.16 % 
 Bash       24 mins         ████████████░░░░░░░░░░░░░   47.84 % 
