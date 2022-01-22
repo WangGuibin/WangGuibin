@@ -7,10 +7,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 January, 2022 - 20 January, 2022
+Week: 15 January, 2022 - 21 January, 2022
 
-Markdown   26 mins         █████████████░░░░░░░░░░░░   52.16 % 
-Bash       24 mins         ████████████░░░░░░░░░░░░░   47.84 % 
+Markdown   1 hr 2 mins     ████████████░░░░░░░░░░░░░   47.62 % 
+Bash       45 mins         ████████▓░░░░░░░░░░░░░░░░   34.39 % 
+Text       20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+HTML       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 ```
 <!--END_SECTION:waka-->
 
