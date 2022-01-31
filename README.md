@@ -13,11 +13,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2022 - 29 January, 2022
+Week: 24 January, 2022 - 30 January, 2022
 
-Bash     33 mins         █████████████████████▓░░░   86.69 % 
-Other    3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Python   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Bash     36 mins         ███████████████████████░░   91.85 % 
+Other    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Python   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 ```
 <!--END_SECTION:waka-->
 
