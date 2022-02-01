@@ -13,7 +13,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 January, 2022 - 30 January, 2022
+Week: 25 January, 2022 - 31 January, 2022
 
 Bash     36 mins         ███████████████████████░░   91.85 % 
 Other    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
