@@ -13,7 +13,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 February, 2022 - 10 February, 2022
+Week: 05 February, 2022 - 11 February, 2022
 
 HTML         1 hr 26 mins    █████████████████░░░░░░░░   68.03 % 
 Rust         22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.74 % 
