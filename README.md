@@ -13,12 +13,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
-
-Total: 1 hr 4 mins
-
-Bash       1 hr 4 mins     █████████████████████▒░░░   85.44 % 
-Other      10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
