@@ -14,10 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 February 2022 - To: 27 February 2022
+From: 21 February 2022 - To: 28 February 2022
 
-JSON   5 mins          ████████████████░░░░░░░░░   63.84 %
-HTML   3 mins          █████████░░░░░░░░░░░░░░░░   36.16 %
+JSON       5 mins          ████████████████░░░░░░░░░   63.84 %
+HTML       3 mins          █████████░░░░░░░░░░░░░░░░   36.16 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
