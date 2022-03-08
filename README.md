@@ -14,12 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 February 2022 - To: 06 March 2022
+From: 28 February 2022 - To: 07 March 2022
 
-JSON       0 secs          ██████████████████████▓░░   90.06 %
-Python     0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JSON     0 secs          ██████████████████████▓░░   90.06 %
+Python   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
+Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
