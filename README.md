@@ -14,9 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 March 2022 - To: 25 March 2022
-
-Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
