@@ -14,7 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 22 March 2022 - To: 29 March 2022
+
+Bash   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
