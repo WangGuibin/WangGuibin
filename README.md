@@ -14,7 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 31 March 2022 - To: 07 April 2022
+
+TOML    16 mins         █████████████▓░░░░░░░░░░░   54.65 %
+Rust    13 mins         ███████████▒░░░░░░░░░░░░░   44.91 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
