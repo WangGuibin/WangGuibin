@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 March 2022 - To: 07 April 2022
+From: 01 April 2022 - To: 08 April 2022
 
 TOML    16 mins         █████████████▓░░░░░░░░░░░   54.65 %
 Rust    13 mins         ███████████▒░░░░░░░░░░░░░   44.91 %
