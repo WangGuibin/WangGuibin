@@ -14,11 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2022 - To: 13 April 2022
+From: 07 April 2022 - To: 14 April 2022
 
-TOML    16 mins         █████████████▓░░░░░░░░░░░   54.65 %
-Rust    13 mins         ███████████▒░░░░░░░░░░░░░   44.91 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Rust   26 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
