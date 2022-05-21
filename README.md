@@ -14,14 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 May 2022 - To: 19 May 2022
+From: 13 May 2022 - To: 20 May 2022
 
-XML           11 mins         ████████████▓░░░░░░░░░░░░   50.04 %
-Markdown      9 mins          █████████▓░░░░░░░░░░░░░░░   38.19 %
-JavaScript    2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
-HTML          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Java          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown      9 mins          ███████████████████▓░░░░░   78.39 %
+JavaScript    2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.62 %
+Objective-C   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
