@@ -14,10 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2022 - To: 23 May 2022
+From: 17 May 2022 - To: 24 May 2022
 
-Markdown      9 mins          ████████████████████████▓   98.75 %
-Objective-C   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Dart          55 mins         ██████████████░░░░░░░░░░░   55.67 %
+YAML          19 mins         █████░░░░░░░░░░░░░░░░░░░░   19.47 %
+Other         13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
 ```
 
 <!--END_SECTION:waka-->
