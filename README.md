@@ -14,9 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 June 2022 - To: 08 June 2022
+From: 02 June 2022 - To: 09 June 2022
 
-Markdown   1 min           █████████████████████████   100.00 %
+HTML         55 mins         ██████████████▒░░░░░░░░░░   57.95 %
+CSS          21 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.05 %
+JavaScript   17 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.65 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
