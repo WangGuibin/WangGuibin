@@ -14,10 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 June 2022 - To: 26 June 2022
-
-HTML     1 hr            ████████████████████████▓   99.06 %
-Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
