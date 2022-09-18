@@ -14,7 +14,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 10 September 2022 - To: 17 September 2022
+
+HTML         1 hr 8 mins     ███████████████▒░░░░░░░░░   60.71 %
+JavaScript   21 mins         █████░░░░░░░░░░░░░░░░░░░░   19.40 %
+JSON         13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
+Vue.js       8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
