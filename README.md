@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 September 2022 - To: 17 September 2022
+From: 11 September 2022 - To: 18 September 2022
 
 HTML         1 hr 8 mins     ███████████████▒░░░░░░░░░   60.71 %
 JavaScript   21 mins         █████░░░░░░░░░░░░░░░░░░░░   19.40 %
