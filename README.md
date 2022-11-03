@@ -14,7 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 26 October 2022 - To: 02 November 2022
+
+CSS          27 mins         ████████████████░░░░░░░░░   63.96 %
+HTML         15 mins         ████████▓░░░░░░░░░░░░░░░░   35.21 %
+XML          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
