@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 November 2022 - To: 13 November 2022
+From: 07 November 2022 - To: 14 November 2022
 
-Dart       1 hr 51 mins    █████████████████████░░░░   83.61 %
-YAML       20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Dart       2 hrs 53 mins   ████████████████████▓░░░░   82.45 %
+YAML       35 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
