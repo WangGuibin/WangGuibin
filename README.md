@@ -30,6 +30,6 @@ JSON         0 secs          ▒░░░░░░░░░░░░░░░░
 
 
 <img alt="🦑" align="left"  width="400px" src="https://cdn.jsdelivr.net/gh/WangGuibin/WangGuibin@master/metrics.svg">
-<img alt="🦑" align="left" width="400px" src="https://cdn.jsdelivr.net/gh/WangGuibin/WangGuibin@master/metrics.additional.svg">
+<!-- <img alt="🦑" align="left" width="400px" src="https://cdn.jsdelivr.net/gh/WangGuibin/WangGuibin@master/metrics.additional.svg"> -->
 
 
