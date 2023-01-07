@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/WangGuibin/ImageBed@main/files/2022_02_02_19:47:20_github-contribution-grid-snake.svg" width=100% >
+![](https://github-readme-activity-graph.cyclic.app/graph?username=WangGuibin&theme=github)
 
 <img src="https://count.getloli.com/get/@WangGuibin.github.readme">
 
