@@ -15,7 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 31 January 2023 - To: 07 February 2023
+
+JSON         6 mins          █████████████████░░░░░░░░   68.46 %
+JavaScript   2 mins          ██████░░░░░░░░░░░░░░░░░░░   24.07 %
+Markdown     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Vue.js       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
