@@ -15,13 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 February 2023 - To: 13 February 2023
+From: 07 February 2023 - To: 14 February 2023
 
-Markdown     44 mins         ███████████████░░░░░░░░░░   59.51 %
-Vue.js       17 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
-JSON         6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
-JavaScript   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Markdown     44 mins         █████████████████░░░░░░░░   67.83 %
+Vue.js       17 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.08 %
+JavaScript   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
 ```
 
 <!--END_SECTION:waka-->
