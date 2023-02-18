@@ -15,11 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 February 2023 - To: 16 February 2023
+From: 10 February 2023 - To: 17 February 2023
 
-Markdown     44 mins         █████████████████░░░░░░░░   67.83 %
-Vue.js       17 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.08 %
-JavaScript   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
