@@ -15,9 +15,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 February 2023 - To: 24 February 2023
+From: 18 February 2023 - To: 25 February 2023
 
-No activity tracked
+JSON         23 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
+Vue.js       19 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.36 %
+HTML         18 mins         █████░░░░░░░░░░░░░░░░░░░░   20.50 %
+Markdown     14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
+JavaScript   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+TypeScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
 ```
 
 <!--END_SECTION:waka-->
