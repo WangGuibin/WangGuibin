@@ -15,13 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 March 2023 - To: 16 March 2023
+From: 10 March 2023 - To: 17 March 2023
 
-Markdown      36 mins         ████████████████▒░░░░░░░░   65.86 %
-HTML          10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
-Git Config    3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-Objective-C   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Other         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Git Config    3 mins          ██████████▒░░░░░░░░░░░░░░   40.81 %
+Objective-C   2 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.11 %
+Other         1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
 ```
 
 <!--END_SECTION:waka-->
