@@ -15,11 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 March 2023 - To: 23 March 2023
+From: 17 March 2023 - To: 24 March 2023
 
-Bash         5 hrs 30 mins   █████████████▓░░░░░░░░░░░   55.23 %
-Python       3 hrs 22 mins   ████████▒░░░░░░░░░░░░░░░░   33.75 %
-Other        41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+Bash         5 hrs 30 mins   ███████████▓░░░░░░░░░░░░░   46.74 %
+Python       3 hrs 22 mins   ███████░░░░░░░░░░░░░░░░░░   28.56 %
+Vue.js       1 hr 35 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
+Other        41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
 ```
 
 <!--END_SECTION:waka-->
