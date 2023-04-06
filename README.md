@@ -15,12 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 March 2023 - To: 04 April 2023
+From: 29 March 2023 - To: 05 April 2023
 
-Markdown      1 hr 2 mins     █████████████████████▓░░░   86.98 %
-Objective-C   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-XML           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Other         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Markdown      1 hr 5 mins     ██████████████████████░░░   87.50 %
+Objective-C   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+XML           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Other         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
