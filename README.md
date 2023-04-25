@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 April 2023 - To: 23 April 2023
+From: 17 April 2023 - To: 24 April 2023
 
 Markdown   30 mins         █████████████████████████   100.00 %
 ```
