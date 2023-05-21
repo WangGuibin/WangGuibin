@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 May 2023 - To: 19 May 2023
+From: 13 May 2023 - To: 20 May 2023
 
-HTML         2 hrs 16 mins   ████████████████░░░░░░░░░   63.99 %
-JavaScript   1 hr 5 mins     ███████▓░░░░░░░░░░░░░░░░░   30.66 %
-Markdown     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+HTML         2 hrs 14 mins   █████████████████▒░░░░░░░   69.17 %
+JavaScript   48 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.96 %
+Markdown     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
 ```
 
 <!--END_SECTION:waka-->
