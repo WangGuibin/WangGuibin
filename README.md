@@ -15,10 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 May 2023 - To: 31 May 2023
+From: 25 May 2023 - To: 01 June 2023
 
-JSON         3 mins          ████████████████████████░   95.45 %
-JavaScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Dart    11 mins         ███████████████▒░░░░░░░░░   61.63 %
+YAML    7 mins          █████████▓░░░░░░░░░░░░░░░   38.20 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
