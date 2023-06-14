@@ -1,3 +1,36 @@
+<!-- xmind -->
+<div align="center" >
+
+```mermaid
+mindmap
+  root((CoderWGB))
+    技术
+      iOS开发
+      Web开发
+      Flutter学习中...
+    爱好
+      美女
+      美食
+      运动
+      游戏
+      音乐
+    旅行
+      南京
+      上海
+      南昌
+      深圳
+      香港
+      泰国
+    阅读
+      玄幻
+      武侠
+      动漫
+      心理
+      专业
+  ```
+ </div>
+
+
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=WangGuibin&theme=github)
 
 <img src="https://count.getloli.com/get/@WangGuibin.github.readme">
@@ -31,36 +64,3 @@ JSON       0 secs          ░░░░░░░░░░░░░░░░░�
 
 <img alt="🦑" align="left"  width="400px" src="https://cdn.jsdelivr.net/gh/WangGuibin/WangGuibin@master/metrics.svg">
 <!-- <img alt="🦑" align="left" width="400px" src="https://cdn.jsdelivr.net/gh/WangGuibin/WangGuibin@master/metrics.additional.svg"> -->
-
-
-<!-- xmind -->
-<div align="center" >
-
-```mermaid
-mindmap
-  root((CoderWGB))
-    技术
-    	 iOS开发
-      Web开发
-      Flutter学习中...
-    爱好
-      美女
-      美食
-      运动
-      游戏
-      音乐
-    旅行
-    	 南京
-    	 上海
-      南昌
-      深圳
-      香港
-      泰国
-    阅读
-			   玄幻
-		  	 武侠
-      动漫
-      心理
-      专业
-  ```
- </div>
