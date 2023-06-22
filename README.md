@@ -48,13 +48,11 @@ mindmap
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2023 - To: 20 June 2023
+From: 14 June 2023 - To: 21 June 2023
 
-Dart         46 mins         █████████████████████░░░░   83.63 %
-YAML         7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
-HTML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-CocoaPods    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+HTML         1 min           ████████████████████▒░░░░   80.83 %
+JavaScript   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
+CSS          0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
 ```
 
 <!--END_SECTION:waka-->
