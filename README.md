@@ -48,12 +48,9 @@ mindmap
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2023 - To: 23 June 2023
+From: 17 June 2023 - To: 24 June 2023
 
-Dart         9 mins          █████████████████████▓░░░   86.35 %
-HTML         1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
-JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Dart   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
