@@ -48,7 +48,7 @@ mindmap
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2023 - To: 25 June 2023
+From: 19 June 2023 - To: 26 June 2023
 
 Dart   37 mins         ██████████████████████░░░   87.81 %
 JSON   5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
