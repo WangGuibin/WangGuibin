@@ -48,13 +48,13 @@ mindmap
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2023 - To: 05 August 2023
+From: 30 July 2023 - To: 06 August 2023
 
-JavaScript   2 hrs 49 mins   ██████████████████████░░░   87.38 %
-CSS          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-TypeScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+JavaScript   2 hrs 49 mins   █████████████████████▒░░░   85.34 %
+TypeScript   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+CSS          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
