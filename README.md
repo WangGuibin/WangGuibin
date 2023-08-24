@@ -48,12 +48,9 @@ mindmap
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2023 - To: 22 August 2023
+From: 16 August 2023 - To: 23 August 2023
 
-JavaScript   4 mins          ██████████░░░░░░░░░░░░░░░   40.43 %
-Other        3 mins          ███████▓░░░░░░░░░░░░░░░░░   31.21 %
-JSON         3 mins          ███████░░░░░░░░░░░░░░░░░░   27.52 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
